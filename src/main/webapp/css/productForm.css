@@ -1,0 +1,79 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Full height for centering */
+}
+
+.container {
+    max-width: 600px;
+    width: 100%; /* Full width */
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    text-align: center; /* Center align text */
+}
+
+h2 {
+    color: #333;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    color: #555;
+    font-weight: bold;
+}
+
+input[type="text"],
+textarea {
+    width: calc(100% - 22px); /* Full width with padding */
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+textarea {
+    height: 100px;
+}
+
+input[type="file"] {
+    margin-top: 5px;
+}
+
+.submit-button {
+    background-color: #ff9900; /* Amazon-like color */
+    color: white;
+    border: none;
+    padding: 12px;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100%;
+    font-weight: bold; /* Make the button text bold */
+    transition: background-color 0.3s; /* Smooth transition */
+}
+
+.submit-button:hover {
+    background-color: #e68a00; /* Darker shade on hover */
+}
+
+.view-products {
+    display: block;
+    margin-top: 15px;
+    color: #0073e6; /* Link color */
+    text-decoration: none;
+    font-weight: bold; /* Make the link text bold */
+}
+
+.view-products:hover {
+    text-decoration: underline; /* Underline on hover */
+}
