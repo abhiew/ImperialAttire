@@ -25,8 +25,9 @@ Team Members
 The 'About' section highlights our team members and their individual contributions to this project. Completing this first project together was a valuable learning experience, giving each of us practical knowledge in Java full-stack development.
 
 Below, we have included screenshots of the website to showcase the design, functionality, and overall user experience of Imperial Attire.
-(https://github.com/user-attachments/assets/06a2cf14-c33e-4af1-ae90-0aced9f83d0f)
 
+
+![Screenshot 2024-10-30 195826](https://github.com/user-attachments/assets/0ef72ea0-c9b5-4cd0-8912-0828c912b455)
 ![Screenshot 2024-10-30 200837](https://github.com/user-attachments/assets/6c513164-75d1-4ebb-a5cf-8be19778284e)
 ![Screenshot 2024-10-30 200912](https://github.com/user-attachments/assets/e025f854-09b3-42b8-abc6-0d3663e515cd)
 ![Screenshot 2024-10-30 201017](https://github.com/user-attachments/assets/4a731d3b-cf7b-4035-92c4-85d22e7ab97c)
