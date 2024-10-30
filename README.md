@@ -33,3 +33,4 @@ Below, we have included screenshots of the website to showcase the design, funct
 ![Screenshot 2024-10-30 201017](https://github.com/user-attachments/assets/4a731d3b-cf7b-4035-92c4-85d22e7ab97c)
 ![Screenshot 2024-10-30 201249](https://github.com/user-attachments/assets/24ce9beb-fa2d-407a-b204-9d36ff396d37)
 ![Screenshot 2024-10-30 214628](https://github.com/user-attachments/assets/9f35de75-e9bf-4059-b073-035eb764aa76)
+![Screenshot 2024-10-30 214843](https://github.com/user-attachments/assets/d9888f28-cf52-4f79-b270-f9bfe4b4ee05)
